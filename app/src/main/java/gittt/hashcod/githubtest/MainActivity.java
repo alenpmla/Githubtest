@@ -56,4 +56,9 @@ public class MainActivity extends AppCompatActivity {
         int i;
         i=10;
     }
+    public  void newbranchmodule()
+    {
+        int i;
+        i=10;
+    }
 }
