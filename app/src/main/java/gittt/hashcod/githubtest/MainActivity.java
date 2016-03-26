@@ -67,5 +67,6 @@ public class MainActivity extends AppCompatActivity {
         finish();
 
         //this is just for testing purpose;
+        //first activity changed
     }
 }
