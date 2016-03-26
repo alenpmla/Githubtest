@@ -61,4 +61,11 @@ public class MainActivity extends AppCompatActivity {
         int i;
         i=10;
     }
+
+    public void modulenewxt(){
+
+        finish();
+
+        //this is just for testing purpose;
+    }
 }
